@@ -1,0 +1,1 @@
+DROP TRIGGER user_attribute_user_fts_trigger ON user_attribute;
